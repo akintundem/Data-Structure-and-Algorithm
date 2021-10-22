@@ -1,5 +1,6 @@
 # projects
 Hi. Thanks for viewing my repository. 
+
 The projects repository contains some of the classes and algorithms I have developed over my last few years in college.  I have worked on several assignments and projects which I have added to this repository to demonstrate my understanding of writing good software especially through and object-oriented programming approach. 
 
 I implemented my six popular data structures namely binary search tree, hash table, heaps, linked list, stacks, and queues. It is important to note that my Binary Search Tree implementation was written originally by my professor, but I have made significant changes to the data structure. Please consult each of the folders of my data structures implementations and review my approach. 
@@ -28,7 +29,11 @@ TrashCan Projects.py - This is a basic Python program that is intended to prove 
 I hope you are now convinced that I am brilliant programmer that can bring value to your company and the world if you invest in me. 
 
 Kind regards,
+
 Akintunde Mayokun Moses
+
 Department of Computer Engineering,
+
 Price Faculty of Engineering,
+
 University of Manitoba. 
