@@ -1,13 +1,13 @@
 # projects
 Hi. Thanks for viewing my repository. 
 
-The projects repository contains some of the classes and algorithms I have developed over my last few years in college.  I have worked on several assignments and projects which I have added to this repository to demonstrate my understanding of writing good software especially through and object-oriented programming approach. 
+The projects repository contains some of the classes and algorithms I have developed over my last few years in college.  I have worked on several assignments and projects which I have added to this repository to demonstrate my understanding of writing good software especially through an object-oriented programming approach. 
 
-I implemented my six popular data structures namely binary search tree, hash table, heaps, linked list, stacks, and queues. It is important to note that my Binary Search Tree implementation was written originally by my professor, but I have made significant changes to the data structure. Please consult each of the folders of my data structures implementations and review my approach. 
+I implemented six popular data structures namely binary search tree, hash table, heaps, linked list, stacks, and queues. It is important to note that my Binary Search Tree implementation was written originally by my professor, but I have made significant changes to the data structure. Please consult each of the folders of my data structures implementations and review my approach. 
 
-I have implemented five popular sorting algorithms such as insertion sort, merge sort, selection sort, bubble sort and quick sort. I have a strong understand about how this sorting algorithm works and I can write new implementations for it to solve different problems. 
+I have implemented five popular sorting algorithms such as insertion sort, merge sort, selection sort, bubble sort and quick sort. I have a strong understanding about how this sorting algorithm works and I can write new implementations for it to solve different problems. 
 
-AkintundeMayokunA1Q1.java – This is project that models a library’s operation. I use three different classes such as the library class, book class and main class. In this project, a user can add a book, search for a book using either the title or author name, loan a book and/or return a book. 
+AkintundeMayokunA1Q1.java – This is project that models a library’s operation. I used three different classes such as the library class, book class and main class. In this project, a user can add a book, search for a book using either the title or author name, loan a book and/or return a book. 
 
 AkintundeMayokunA1Q2.java – In this project, I implemented a recursive Sudoku Solver algorithm that solves a sudoku board using recursive backtracking approach. 
 
